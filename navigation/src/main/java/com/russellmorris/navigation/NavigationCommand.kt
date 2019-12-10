@@ -1,11 +1,9 @@
 package com.russellmorris.navigation
 
-import androidx.lifecycle.ViewModel
 import androidx.navigation.NavDirections
 
 /**
- * A simple sealed class to handle more properly
- * navigation from a [ViewModel]
+ * A simple sealed class to aid navigation
  */
 sealed class NavigationCommand {
     data class To(val directions: NavDirections) : NavigationCommand()
