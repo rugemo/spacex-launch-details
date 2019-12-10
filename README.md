@@ -1,6 +1,6 @@
 # SpaceX Lauches
 
-SpaceX Launches is a n modular app built for a coding challenge.
+SpaceX Launches is a modular app built for a coding challenge.
 
 It uses RxJava and Retrofit to make a call to get the spacex api to retrieve past launch data.
 
