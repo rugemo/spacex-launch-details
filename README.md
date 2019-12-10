@@ -21,9 +21,9 @@ The app is feature based and modular, following Clean Architecture guidelines wi
 
 ### Improvements
 
-Convert RxJava to Kotlin coroutines and use databinding between viewmodel and view
-Replace android-youtube-player (see known issues)
-Increase test coverage
+- Convert RxJava to Kotlin coroutines and use databinding between viewmodel and view
+- Replace android-youtube-player (see known issues)
+- Increase test coverage
 
 ### Known Issues
 
